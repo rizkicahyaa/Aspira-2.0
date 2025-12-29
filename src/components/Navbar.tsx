@@ -1,6 +1,6 @@
 export default function Navbar() {
     return (
-        <nav className="fixed w-full bg-white/80 backdrop-blur border-b z-50">
+        <nav className="fixed w-full bg-white/80 backdrop-blur shadow z-50">
             <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
                 <h1 className="text-xl font-bold text-blue-600">Eventify</h1>
 
